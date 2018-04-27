@@ -1,1 +1,0 @@
-print("在version3.0中创建文件")
